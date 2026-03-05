@@ -13,18 +13,21 @@
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="32" height="32"/></code>&nbsp;
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="35" height="35"/></code>&nbsp;
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="32" height="32"/></code>&nbsp;
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="32" height="32"/></code>&nbsp;
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="32" height="32"/></code>&nbsp;
-  <code><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="nextjs" alt="nextjs" width="32" height="32"/></code>&nbsp;
-  <code><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="32" height="32"/></code>&nbsp;
-  <code><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="32" height="32"/></code>&nbsp;
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="32" height="32"/></code>&nbsp;
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="32" height="32"/></code>&nbsp;
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="32" height="32"/></code>&nbsp;
 
 **Others: &nbsp;**
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="32" height="32"/></code>&nbsp;
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="32" height="32"/></code>&nbsp;
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="SQL" alt="SQL" width="32" height="32"/></code>&nbsp;
 
 **IDEs/Editors: &nbsp;**
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="32" height="32"/></code>&nbsp;
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg" title="Eclipse" alt="Eclipse" width="32" height="32"/></code>&nbsp;
+<code><img src="https://cdn.simpleicons.org/cursor/white" title="Cursor IDE" alt="Cursor IDE" width="32" height="32"/></code>&nbsp;
 
 <br/>
 
