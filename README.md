@@ -26,8 +26,7 @@
 
 **IDEs/Editors: &nbsp;**
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="32" height="32"/></code>&nbsp;
-  <code><img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg" title="Eclipse" alt="Eclipse" width="32" height="32"/></code>&nbsp;
-<code><img src="https://cdn.simpleicons.org/cursor/white" title="Cursor IDE" alt="Cursor IDE" width="32" height="32"/></code>&nbsp;
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg" title="Eclipse" alt="Eclipse" width="32" height="32"/></code>
 
 <br/>
 
